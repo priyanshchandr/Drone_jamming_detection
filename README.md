@@ -1,10 +1,6 @@
 # Drone_jamming_detection
 Drone Jamming detection using machine learning.
 
-To create a README file for the GitHub repository [Drone_jamming_detection](https://github.com/priyanshchandr/Drone_jamming_detection), you can include the following details based on the repository's likely purpose and common practices:
-
----
-
 # Drone Jamming Detection
 
 This repository provides a system for detecting and mitigating drone jamming attacks, leveraging advanced techniques such as signal processing, machine learning, and secure communication protocols.
